@@ -1,0 +1,2 @@
+E:\jl653simulator\test_jl653\test_part1\test_part1.c:125: CREATE_QUEUING_PORT | NOT_AVAILABLE | CREATE_QUEUING_PORT is not supported by JL653
+E:\jl653simulator\test_jl653\test_part1\test_part1.c:126: CREATE_SAMPLING_PORT | NOT_AVAILABLE | CREATE_SAMPLING_PORT is not supported by JL653
