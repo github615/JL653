@@ -1,2 +1,2 @@
 *.c linguist-language=C
-*.c linguist-language=H
+*.h linguist-language=C
