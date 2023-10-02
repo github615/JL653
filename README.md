@@ -1,4 +1,4 @@
-JL653 is a layer of plug-in installed in the PC Windows operating system, it can truly simulate the functional behavior stipulated by the ARINC653 standard, so that developers can efficiently and quickly develop and debug applications based on ARINC653 in the PC Windows environment.
+JL653 is an ARINC653-based application emulation debugging tool presented as a DLL. It can truly simulate the functional behavior stipulated by the ARINC653 standard, so that developers can efficiently and quickly develop and debug applications based on ARINC653 in the PC Windows environment.
 
 JL653 provides the following services as required by ARINC 653 Part 1:
 
